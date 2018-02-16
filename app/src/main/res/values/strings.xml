@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RocketyVroom</string>
+    <string name="launch_number">" "</string>
+    <string name="team_number">" "</string>
+    <string name="launchInfo">Launch number</string>
+
+</resources>
